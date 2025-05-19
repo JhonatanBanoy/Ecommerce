@@ -1,0 +1,46 @@
+.navbar {
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+    background-color: #333;  
+    padding: 10px 0;       
+  }
+  
+  .navbar ul {
+    list-style: none;        
+    display: flex;           
+    gap: 20px;              
+  }
+  
+  .navbar li {
+    padding: 5px 10px;      
+  }
+  
+  .navbar a {
+    text-decoration: none;   
+    color: white;        
+    font-size: 16px;         
+  }
+  
+  .navbar a:hover {
+    color: #ff6347;         
+  }
+  
+
+/*Estilos para icono del carrito*/
+
+.cartContainer{
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
